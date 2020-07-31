@@ -7,11 +7,11 @@
 body {
   font-family: "Pacifico", cursive;
   /*margin: 2em; */
-  background-color: powderblue;
+  background-image: linear-gradient(to bottom,rebeccapurple,purple,red,orangered,orange,orange,yellow);
   /*rgb(142, 106, 260); */
 }
 .about {
-  background-color: purple;
+  background-color: mediumorchid;
   /*rgb(142, 106, 260); */
 }
 h1 {
@@ -22,7 +22,7 @@ h1 {
   display: flex;
 }
 a:hover {
-  color: yellow;
+  color: lightgreen;
 }
 .header ul li {
   display: inline;
